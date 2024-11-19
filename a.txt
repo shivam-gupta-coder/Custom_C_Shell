@@ -1,0 +1,5 @@
+pid : 38096
+process status : R
+Process Group : 38096
+Virtual memory : 27592
+executable path : /home/shivamgupta/Desktop/proj1/a.out
